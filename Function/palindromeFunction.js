@@ -13,5 +13,6 @@ function isPalindrome(str){
         console.log("Not palindrome");
     }
 }
+
 let checkPalindrome = prompt("Enter a string : ");
 console.log(isPalindrome(checkPalindrome));
