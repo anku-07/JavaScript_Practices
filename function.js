@@ -12,6 +12,7 @@ function square(){
 console.log(square());
 
 // Qn-B:
+
 function greet(name) {
     return `Hello, ${name}!`;
 }
