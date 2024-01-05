@@ -5,3 +5,11 @@ if(str[0] == 'a' && str.length > 3){
 }else{
     console.log("It is a bad string.");
 }
+
+// New Programme
+let strr = "Aditya";
+if((strr[0] == 'A' || strr[0] == 'a') && (strr.length > 5)){
+    console.log("It is a Golden string.");
+}else{
+    console.log("It not a bad string.");
+}
