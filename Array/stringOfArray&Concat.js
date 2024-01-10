@@ -9,4 +9,4 @@ function concatenateStrings(arr) {
   const strings = ['Hello', ' ', 'World', '!'];
   const concatenatedString = concatenateStrings(strings);
   console.log(concatenatedString); // Output will be 'Hello World!'
-  
+    
