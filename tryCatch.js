@@ -1,4 +1,5 @@
 // try&catch
+
 console.log("Hello");
 console.log("Hello");
 
@@ -10,6 +11,7 @@ console.log("Hello");
 // }
 
 // we can do this
+
 try{
     console.log(a);
 }catch(err){
