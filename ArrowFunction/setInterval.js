@@ -3,3 +3,7 @@ const id  = setInterval(()=>{
     console.log("Apna College");
 },2000);
 console.log(id);
+
+setTimeout(()=>{
+    clearInterval(id);
+},10000);

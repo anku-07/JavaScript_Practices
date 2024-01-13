@@ -2,3 +2,8 @@
 const squareOfnum = n =>{
     return n*n;
 }
+
+/*
+// short hand
+let square = n => (n*n);
+*/
