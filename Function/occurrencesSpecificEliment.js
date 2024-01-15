@@ -3,7 +3,7 @@
 function occurrences(arr,targetEliment){
     let count = 0;
     for(let i = 0; i < arr.length; i++){
-        if(arr[i] === targetEliment);{
+        if(arr[i] === targetEliment){
             count ++;
         }
     }
