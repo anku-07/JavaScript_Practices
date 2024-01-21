@@ -3,4 +3,4 @@
 let square = function(n){
     return n *n;
 }
-console.log
+console.log(square(9));
